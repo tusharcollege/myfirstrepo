@@ -1,1 +1,3 @@
 # myfirstrepo
+i am still learning ...
+test repo
